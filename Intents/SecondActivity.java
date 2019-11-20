@@ -1,4 +1,4 @@
-package com.ansh.intents;
+package com.manushi.intents;
 
 import android.content.Intent;
 import android.os.Bundle;
