@@ -1,4 +1,4 @@
-package com.ansh.intents2;
+package com.manushi.intents2;
 
 import android.content.Intent;
 import android.net.Uri;
